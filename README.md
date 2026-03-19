@@ -30,7 +30,7 @@ Technologies Used
 How to Run the Project
 
 Download or clone the repository:
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/svnd3/calculator-app.git
 Open the project folder
 Double-click on:
 index.html
